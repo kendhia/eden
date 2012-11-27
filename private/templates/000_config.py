@@ -103,6 +103,9 @@ settings.frontpage.rss = [
     }
 ]
 
+# Enable Social Media shareicons
+deployment_settings.frontpage.share_icons = True
+
 # Enable session store in Memcache to allow sharing of sessions across instances
 #settings.base.session_memcache = '127.0.0.1:11211'
 
